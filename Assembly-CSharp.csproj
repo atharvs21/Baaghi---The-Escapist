@@ -36,9 +36,14 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Imported\CharacterController2D.cs" />
-     <Compile Include="Assets\PlayerMovement.cs" />
+     <Compile Include="Assets\addedByMe\PlayerMovement.cs" />
+     <Compile Include="Assets\Imported\Scripts\CharacterController2D.cs" />
+     <Compile Include="Assets\Imported\Scripts\StartMenu.cs" />
+     <Compile Include="Assets\Imported\Scripts\Finish.cs" />
+     <Compile Include="Assets\Imported\Scripts\EndMenu.cs" />
+     <Compile Include="Assets\Imported\Scripts\PlayerLife.cs" />
      <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
+     <None Include="Assets\Imported\Sprites\GrassAndDirtTileset\Thanks.txt" />
     <Reference Include="UnityEngine">
         <HintPath>E:\GAMEDEV_ SOCIETY\TOOLS\2020.3.27f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -671,6 +676,12 @@
     </Reference>
     <Reference Include="Unity.2D.IK.Runtime">
         <HintPath>E:\GAMEDEV_ SOCIETY\UNITY\PROJECTS\B.S.D.K\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+        <HintPath>E:\GAMEDEV_ SOCIETY\UNITY\PROJECTS\B.S.D.K\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+        <HintPath>E:\GAMEDEV_ SOCIETY\UNITY\PROJECTS\B.S.D.K\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
         <HintPath>E:\GAMEDEV_ SOCIETY\UNITY\PROJECTS\B.S.D.K\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
