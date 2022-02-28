@@ -4,7 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Trap
+  - Ground
+  - Enemy
+  - Player bullet
   layers:
   - Default
   - TransparentFX
@@ -12,7 +14,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Enemy
   - player
   - 
   - 
@@ -50,4 +52,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3808004079
+    locked: 0
+  - name: Enemy
+    uniqueID: 3218983831
     locked: 0
