@@ -655,11 +655,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 596f2678-d2c8-4ff7-bb6a-53ec74ae5edf
+  cloudProjectId: 0bee2a57-7805-456c-b169-95059994f3ae
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: B.S.D.K
-  organizationId: baaghi-devs
+  projectName: GameDev(B.S.D.K)
+  organizationId: rivayiro
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   virtualTexturingSupportEnabled: 0
